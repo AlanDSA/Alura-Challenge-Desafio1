@@ -1,0 +1,70 @@
+.foto1{
+    width: 200px;
+    height: auto;
+    padding: 5% 5%;
+    
+
+}
+.body{
+    min-height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+
+}
+.descricao{
+
+   
+    margin: 50px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+    flex-grow: 1;
+}
+
+.input{
+    width: 100%;
+    padding: 9px;
+}
+.button{
+    background-color: #4CAF50;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+
+}
+.button:hover{
+    background-color: #008cba;
+}
+.rodape{
+    background-color: #fff;
+    color: #55B3FA;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+.rodape1{
+    width: 100px;
+    margin: 0 100px;
+    text-decoration: none;
+    padding: 40px;
+    text-align: center;
+  
+}
+.rodape2{
+    display: flex;
+    align-items: end;
+    padding: 25px;
+  
+
+
+}
